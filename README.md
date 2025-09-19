@@ -6,3 +6,4 @@
 3. Galeria
 4. Funcionário
 5. [FLEX](./img/flex.png)
+6. [Coca-Cola](./atividades/coca-cola.md)
